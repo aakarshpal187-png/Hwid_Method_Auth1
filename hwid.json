@@ -2,6 +2,7 @@
   "admin": [
     { "username": "1", 
       "password":"",
+      "Key":"1"
       "hwid": "6873c1fb643564d5"
     }
   ]
