@@ -1,6 +1,8 @@
 {
   "admin": [
-    { "username": "JIRAYA-X99", "hwid": "6873c1fb643564d5" },
-    { "username": "ADMIN-888", "hwid": "ba5eb94d0c1dc1ca" }
+    { "username": "1", 
+      "password":,
+      "hwid": "6873c1fb643564d5"
+    }
   ]
 }
