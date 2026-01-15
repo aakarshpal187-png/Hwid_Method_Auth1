@@ -1,6 +1,6 @@
 {
   "admin": [
-    { "user_key": "JIRAYA-X99", "hwid": "6873c1fb643564d5" },
-    { "user_key": "ADMIN-888", "hwid": "ba5eb94d0c1dc1ca" }
+    { "username": "JIRAYA-X99", "hwid": "6873c1fb643564d5" },
+    { "username": "ADMIN-888", "hwid": "ba5eb94d0c1dc1ca" }
   ]
 }
