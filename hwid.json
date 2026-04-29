@@ -8,7 +8,7 @@
       "subscription": "aimkill apk",
       "free_user": false,
       "blacklisted": false,
-      "cracker": false
+      "cracker": true
     }
   ]
 }
